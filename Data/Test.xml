@@ -1,0 +1,37 @@
+<list>
+  <Muzyka>
+    <ID>1</ID>
+    <title>Without Me</title>
+    <artist>Eminem</artist>
+    <album>The Eminem Show</album>
+    <year>2002</year>
+  </Muzyka>
+  <Muzyka>
+    <ID>2</ID>
+    <title>Hello</title>
+    <artist>Adele</artist>
+    <album>Unknown</album>
+    <year>2016</year>
+  </Muzyka>
+  <Muzyka>
+    <ID>3</ID>
+    <title>Lose Yourself</title>
+    <artist>Eminem</artist>
+    <album>8 mile</album>
+    <year>2002</year>
+  </Muzyka>
+  <Muzyka>
+    <ID>4</ID>
+    <title>Insomnia</title>
+    <artist>Faithless</artist>
+    <album>Unknown</album>
+    <year>1996</year>
+  </Muzyka>
+  <Muzyka>
+    <ID>5</ID>
+    <title>Jestem Bogiem</title>
+    <artist>Paktofonika</artist>
+    <album>Kinematografia</album>
+    <year>2000</year>
+  </Muzyka>
+</list>
